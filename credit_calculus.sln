@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "credit_calculus", "credit_calculus\credit_calculus.csproj", "{F40F5ECB-B59E-47E8-89BD-8453F406E70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40F5ECB-B59E-47E8-89BD-8453F406E70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40F5ECB-B59E-47E8-89BD-8453F406E70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40F5ECB-B59E-47E8-89BD-8453F406E70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40F5ECB-B59E-47E8-89BD-8453F406E70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0930FD-E775-4C1A-8757-4068232691BC}
+	EndGlobalSection
+EndGlobal
